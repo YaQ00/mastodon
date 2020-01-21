@@ -71,6 +71,7 @@ module Mastodon
       :io,
       :it,
       :ja,
+      :'ja-IM',
       :ka,
       :kk,
       :ko,

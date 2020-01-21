@@ -34,6 +34,7 @@ module SettingsHelper
     io: 'Ido',
     it: 'Italiano',
     ja: '日本語',
+    'ja-IM': 'imas語ですよ！imas語！',
     ka: 'ქართული',
     kk: 'Қазақша',
     ko: '한국어',
